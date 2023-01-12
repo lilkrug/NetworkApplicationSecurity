@@ -1,0 +1,30 @@
+﻿Сборка начата 25.11.2021 23:37:27.
+Уровень детализации журнала: Normal.     1>Проект "D:\study\3course\Shiman\lab8\ConcurrentServer\Clients\Clients.vcxproj" в узле 4 (целевые объекты Rebuild).
+     1>PrepareForBuild:
+         Создание каталога "x64\Debug\Clients.tlog\".
+       InitializeBuildStatus:
+         Создание "x64\Debug\Clients.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.28.29333\bin\HostX86\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc142.pdb" /Gd /TP /FC /errorReport:prompt Clients.cpp
+         Clients.cpp
+     1>D:\study\3course\Shiman\lab8\ConcurrentServer\Clients\Clients.cpp(113,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+     1>D:\study\3course\Shiman\lab8\ConcurrentServer\Clients\Clients.cpp(102,3): warning C4101: obuf: неиспользованная локальная переменная
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.28.29333\bin\HostX86\x64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\study\3course\Shiman\lab8\ConcurrentServer\x64\Debug\Clients.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FASTLINK /PDB:"D:\study\3course\Shiman\lab8\ConcurrentServer\x64\Debug\Clients.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\study\3course\Shiman\lab8\ConcurrentServer\x64\Debug\Clients.lib" /MACHINE:X64 x64\Debug\Clients.obj
+         Clients.vcxproj -> D:\study\3course\Shiman\lab8\ConcurrentServer\x64\Debug\Clients.exe
+       FinalizeBuildStatus:
+         Файл "x64\Debug\Clients.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "x64\Debug\Clients.tlog\Clients.lastbuildstate".
+     1>Сборка проекта "D:\study\3course\Shiman\lab8\ConcurrentServer\Clients\Clients.vcxproj" завершена (целевые объекты Rebuild).
+
+Сборка успешно завершена.
+
+       "D:\study\3course\Shiman\lab8\ConcurrentServer\Clients\Clients.vcxproj" (целевой объект Rebuild ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\study\3course\Shiman\lab8\ConcurrentServer\Clients\Clients.cpp(113,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+         D:\study\3course\Shiman\lab8\ConcurrentServer\Clients\Clients.cpp(102,3): warning C4101: obuf: неиспользованная локальная переменная
+
+    Предупреждений: 2
+    Ошибок: 0
+
+Прошло времени 00:00:01.87

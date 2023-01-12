@@ -1,0 +1,3 @@
+﻿  ConcurrentServer.cpp
+D:\Education\3 курс 1 сем\Безопасность сетевых приложений\Laba8\ConcurrentServer\ConcurrentServer\GarbageCleaner.h(21,48): error C7664: ">": упорядоченное сравнение указателя и целочисленного нуля ("volatile LONG *" и "int")
+D:\Education\3 курс 1 сем\Безопасность сетевых приложений\Laba8\ConcurrentServer\ConcurrentServer\DispathServer.h(27,16): error C7664: ">": упорядоченное сравнение указателя и целочисленного нуля ("volatile LONG *" и "int")

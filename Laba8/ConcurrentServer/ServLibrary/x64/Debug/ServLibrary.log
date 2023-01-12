@@ -1,0 +1,35 @@
+﻿  pch.cpp
+  dllmain.cpp
+D:\Study\Practice\......stash\lab8\ConcurrentServer\ServLibrary\Files.h(93,34): warning C4312: приведение типов: преобразование из "DWORD" в "Contact *" большего размера
+D:\Study\Practice\......stash\lab8\ConcurrentServer\ServLibrary\Files.h(110,34): warning C4312: приведение типов: преобразование из "DWORD" в "Contact *" большего размера
+D:\Study\Practice\......stash\lab8\ConcurrentServer\ServLibrary\EchoServer.h(11,67): warning C4311: приведение типов: усечение указателя из "Contact *" в "DWORD"
+D:\Study\Practice\......stash\lab8\ConcurrentServer\ServLibrary\EchoServer.h(11,67): warning C4302: приведение типов: усечение из "Contact *" к "DWORD"
+D:\Study\Practice\......stash\lab8\ConcurrentServer\ServLibrary\EchoServer.h(11,67): error C2664: "DWORD QueueUserAPC(PAPCFUNC,HANDLE,ULONG_PTR)": невозможно преобразовать аргумент 1 из "PAPCFUNC (__cdecl *)(DWORD)" в "PAPCFUNC"
+D:\Study\Practice\......stash\lab8\ConcurrentServer\ServLibrary\EchoServer.h(11,15): message : Конечному типу не соответствует ни одной функции с данным именем в области видимости
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\processthreadsapi.h(94,1): message : см. объявление "QueueUserAPC"
+D:\Study\Practice\......stash\lab8\ConcurrentServer\ServLibrary\EchoServer.h(58,70): warning C4311: приведение типов: усечение указателя из "Contact *" в "DWORD"
+D:\Study\Practice\......stash\lab8\ConcurrentServer\ServLibrary\EchoServer.h(58,70): warning C4302: приведение типов: усечение из "Contact *" к "DWORD"
+D:\Study\Practice\......stash\lab8\ConcurrentServer\ServLibrary\EchoServer.h(58,70): error C2664: "DWORD QueueUserAPC(PAPCFUNC,HANDLE,ULONG_PTR)": невозможно преобразовать аргумент 1 из "PAPCFUNC (__cdecl *)(DWORD)" в "PAPCFUNC"
+D:\Study\Practice\......stash\lab8\ConcurrentServer\ServLibrary\EchoServer.h(58,17): message : Конечному типу не соответствует ни одной функции с данным именем в области видимости
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\processthreadsapi.h(94,1): message : см. объявление "QueueUserAPC"
+D:\Study\Practice\......stash\lab8\ConcurrentServer\ServLibrary\RandServer.h(11,67): warning C4311: приведение типов: усечение указателя из "Contact *" в "DWORD"
+D:\Study\Practice\......stash\lab8\ConcurrentServer\ServLibrary\RandServer.h(11,67): warning C4302: приведение типов: усечение из "Contact *" к "DWORD"
+D:\Study\Practice\......stash\lab8\ConcurrentServer\ServLibrary\RandServer.h(11,67): error C2664: "DWORD QueueUserAPC(PAPCFUNC,HANDLE,ULONG_PTR)": невозможно преобразовать аргумент 1 из "PAPCFUNC (__cdecl *)(DWORD)" в "PAPCFUNC"
+D:\Study\Practice\......stash\lab8\ConcurrentServer\ServLibrary\RandServer.h(11,15): message : Конечному типу не соответствует ни одной функции с данным именем в области видимости
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\processthreadsapi.h(94,1): message : см. объявление "QueueUserAPC"
+D:\Study\Practice\......stash\lab8\ConcurrentServer\ServLibrary\RandServer.h(39,16): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Study\Practice\......stash\lab8\ConcurrentServer\ServLibrary\RandServer.h(61,70): warning C4311: приведение типов: усечение указателя из "Contact *" в "DWORD"
+D:\Study\Practice\......stash\lab8\ConcurrentServer\ServLibrary\RandServer.h(61,70): warning C4302: приведение типов: усечение из "Contact *" к "DWORD"
+D:\Study\Practice\......stash\lab8\ConcurrentServer\ServLibrary\RandServer.h(61,70): error C2664: "DWORD QueueUserAPC(PAPCFUNC,HANDLE,ULONG_PTR)": невозможно преобразовать аргумент 1 из "PAPCFUNC (__cdecl *)(DWORD)" в "PAPCFUNC"
+D:\Study\Practice\......stash\lab8\ConcurrentServer\ServLibrary\RandServer.h(61,17): message : Конечному типу не соответствует ни одной функции с данным именем в области видимости
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\processthreadsapi.h(94,1): message : см. объявление "QueueUserAPC"
+D:\Study\Practice\......stash\lab8\ConcurrentServer\ServLibrary\TimeServer.h(10,67): warning C4311: приведение типов: усечение указателя из "Contact *" в "DWORD"
+D:\Study\Practice\......stash\lab8\ConcurrentServer\ServLibrary\TimeServer.h(10,67): warning C4302: приведение типов: усечение из "Contact *" к "DWORD"
+D:\Study\Practice\......stash\lab8\ConcurrentServer\ServLibrary\TimeServer.h(10,67): error C2664: "DWORD QueueUserAPC(PAPCFUNC,HANDLE,ULONG_PTR)": невозможно преобразовать аргумент 1 из "PAPCFUNC (__cdecl *)(DWORD)" в "PAPCFUNC"
+D:\Study\Practice\......stash\lab8\ConcurrentServer\ServLibrary\TimeServer.h(10,15): message : Конечному типу не соответствует ни одной функции с данным именем в области видимости
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\processthreadsapi.h(94,1): message : см. объявление "QueueUserAPC"
+D:\Study\Practice\......stash\lab8\ConcurrentServer\ServLibrary\TimeServer.h(58,70): warning C4311: приведение типов: усечение указателя из "Contact *" в "DWORD"
+D:\Study\Practice\......stash\lab8\ConcurrentServer\ServLibrary\TimeServer.h(58,70): warning C4302: приведение типов: усечение из "Contact *" к "DWORD"
+D:\Study\Practice\......stash\lab8\ConcurrentServer\ServLibrary\TimeServer.h(58,70): error C2664: "DWORD QueueUserAPC(PAPCFUNC,HANDLE,ULONG_PTR)": невозможно преобразовать аргумент 1 из "PAPCFUNC (__cdecl *)(DWORD)" в "PAPCFUNC"
+D:\Study\Practice\......stash\lab8\ConcurrentServer\ServLibrary\TimeServer.h(58,17): message : Конечному типу не соответствует ни одной функции с данным именем в области видимости
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\processthreadsapi.h(94,1): message : см. объявление "QueueUserAPC"
