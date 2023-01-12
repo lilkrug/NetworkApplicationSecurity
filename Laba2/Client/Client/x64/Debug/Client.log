@@ -1,0 +1,4 @@
+﻿  Client.cpp
+D:\Education\3 курс 1 сем\Безопасность сетевых приложений\Laba2\Client\Client\Client.cpp(47,16): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Education\3 курс 1 сем\Безопасность сетевых приложений\Laba2\Client\Client\Client.cpp(60,12): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Client.vcxproj -> D:\Education\3 курс 1 сем\Безопасность сетевых приложений\Laba2\Client\x64\Debug\Client.exe
