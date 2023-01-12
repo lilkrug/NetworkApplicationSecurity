@@ -1,0 +1,5 @@
+D:\Nada\ПБСП\Lab_4\ServerB\Debug\ServerB.exe
+D:\Nada\ПБСП\Lab_4\ServerB\Debug\ServerB.pdb
+C:\Users\thesi\Desktop\5\ПБСП\Lab_4\ServerB\Debug\ServerB.exe
+D:\Education\3 курс 1 сем\Безопасность сетевых приложений\Lab_4\ServerB\Debug\ServerB.exe
+D:\Education\3 курс 1 сем\Безопасность сетевых приложений\Laba4\ServerB\Debug\ServerB.exe

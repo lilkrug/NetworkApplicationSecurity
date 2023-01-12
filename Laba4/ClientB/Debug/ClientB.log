@@ -1,0 +1,3 @@
+﻿  ClientB.cpp
+C:\Users\thesi\Desktop\5\ПБСП\Lab_4\ClientB\ClientB.cpp(118,12): warning C4101: cS: неиспользованная локальная переменная
+  ClientB.vcxproj -> C:\Users\thesi\Desktop\5\ПБСП\Lab_4\ServerB\Debug\ClientB.exe
